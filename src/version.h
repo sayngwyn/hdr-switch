@@ -1,0 +1,6 @@
+#pragma once
+
+#define HDRSWITCH_MAJOR 1
+#define HDRSWITCH_MINOR 0
+#define HDRSWITCH_PATCH 0
+#define HDRSWITCH_VERSION "1.0.0"
