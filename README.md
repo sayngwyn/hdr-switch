@@ -58,7 +58,20 @@ It writes the DLL and the zips to `dist`. Set `HDR_SWITCH_OFF` in the environmen
 
 ## Report a problem
 
-Open an issue here, or post in Bugs on the Nexus page, with your game version and the log. Or find me on [Discord](https://discord.com/invite/sayngwyn).
+**Found a bug?** Post on the Nexus page's Bugs tab with your game version, what you saw, and this mod's log. I need it for every report, because it shows what the mod actually did:
+
+```
+Documents\My Games\Skyrim Special Edition\SKSE\HdrSwitch.log
+Documents\My Games\Fallout4\F4SE\HdrSwitch.log
+```
+
+Send it before you start the game again, because each launch replaces it.
+
+**If the game crashed,** I need two logs: this mod's log, plus the crash log from a crash logger (Crash Logger or Trainwreck on Skyrim, Buffout 4 NG or Addictol on Fallout 4). Without both, I can't tell what crashed or why.
+
+Reports without the logs are closed after 14 days. Post them later and I'll reopen the report.
+
+Logs are long, so link a paste site or bring them to [Discord](https://discord.com/invite/sayngwyn). They can show your Windows username, so use a private report on Nexus if you'd rather.
 
 ## More by sayngwyn
 
